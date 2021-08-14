@@ -34,3 +34,14 @@ Yooo!! Yeshasvi here! Someone who is deeply in love with Coding
 ![](https://github-readme-stats.vercel.app/api?username=yanonymous&theme=dark&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanonymous&theme=dark&layout=compact)
+
+<p align="center">
+      <img src="c.svg" alt="c" width="55" height="55"/>
+      <img src="cpp.svg" alt="cpp" width="55" height="55">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+</p>
